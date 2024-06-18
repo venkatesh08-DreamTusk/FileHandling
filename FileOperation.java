@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.Date;
 import java.util.Scanner;
 
-public class WriteData {
+public class FileOperation {
     Scanner in = new Scanner(System.in);
     private   File file;
     private   FileWriter fileWriter;
